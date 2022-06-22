@@ -1,1 +1,1 @@
-# udemy-scala-beginner
+# Udemy Scala Beginner
