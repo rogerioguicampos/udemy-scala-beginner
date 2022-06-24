@@ -8,7 +8,7 @@ object Function  extends App {
 
   println(aFunction("hello", 3))
 
-  def aRepeatedFunction(aString: String, n: Int): String ={
+  def aRepeatedFunction(aString: String, n: Int): String = {
     if (n == 1) aString
     else aString + aRepeatedFunction(aString, n-1)
   }
